@@ -9,7 +9,7 @@
 import Home from "../src/components/Home.vue";
 export default {
   name: "App",
-  components: Home,
+  components: { Home },
   name: "app",
   data() {
     return {
